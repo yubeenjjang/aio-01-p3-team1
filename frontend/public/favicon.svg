@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- 모매매 파비콘: ㅁ 블록 셋의 계단 (16px 최적화: 속이 찬 사각형, 블록 사이 틈 0.8) -->
+  <rect width="32" height="32" rx="8" fill="#3182F6"/>
+  <g fill="#FFFFFF">
+    <rect x="3.2" y="17.2" width="8" height="7.6" rx="1.4"/>
+    <rect x="12" y="12.2" width="8" height="7.6" rx="1.4"/>
+    <rect x="20.8" y="7.2" width="8" height="7.6" rx="1.4"/>
+  </g>
+</svg>
